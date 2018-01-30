@@ -36,9 +36,9 @@ h1
 }
 
 #entete{
-    height: 100px;
+    height: 150px;
     background-color:#74b9ff;
-    text-align: center;
+    text-align: right;
 }
 
 #footer{
